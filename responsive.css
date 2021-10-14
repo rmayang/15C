@@ -1,0 +1,59 @@
+/* RISKI MAYANG SARI */
+
+/* For Tablets */
+@media (max-width: 1000px) {
+  .content-icon p {
+    font-size: 12px;
+  }
+}
+
+/* For Smartphones */
+@media (max-width: 670px) {
+  
+  .header-right {
+    display: none;
+  }
+  
+  span.menu-icon {
+    display: block;
+  }
+
+  .content {
+    width: 100%;
+  }
+
+  .content-icon p {
+    font-size: 18px;
+  }
+
+  .text-contents {
+    margin-bottom: 50px;
+    font-size: 16px;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .top-wrapper {
+    text-align: center;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
