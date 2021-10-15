@@ -31,19 +31,17 @@
     padding: 250px 0 200px 0;
     background-image: url(https://media.istockphoto.com/photos/shes-bringing-some-of-her-bright-ideas-to-the-front-picture-id609072850?b=1&k=20&m=609072850&s=170667a&w=0&h=v5CWUrXr0PdTDreX7RZy-Xn2ULXOOwRSVDLu4coXtKY=);
     background-size: cover;
-    color: white;
+    color: black;
     text-align: center;
   }
   
   .top-wrapper h1 {
-    opacity: 0.7;
     font-size: 45px;
     letter-spacing: 5px;
     margin-bottom: 10px;
   }
 
   .top-wrapper h2 {
-      opacity: 0.7;
       margin-top: 10px;
   }
 
