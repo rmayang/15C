@@ -29,14 +29,14 @@
   
   .top-wrapper {
     padding: 250px 0 200px 0;
-    background-image: url(https://media.istockphoto.com/photos/shes-bringing-some-of-her-bright-ideas-to-the-front-picture-id609072850?b=1&k=20&m=609072850&s=170667a&w=0&h=v5CWUrXr0PdTDreX7RZy-Xn2ULXOOwRSVDLu4coXtKY=);
+    background-image: url(bg.png);
     background-size: cover;
-    color: black;
+    color: #f7f7f7;
     text-align: center;
   }
   
   .top-wrapper h1 {
-    font-size: 45px;
+    font-size: 64px;
     letter-spacing: 5px;
     margin-bottom: 10px;
   }
@@ -61,7 +61,7 @@
   header {
     height: 65px;
     width: 100%;
-    background-color: rgba(32, 32, 32, 0.9);
+    background-color: rgba(38, 155, 155, 0.9);
     position :fixed;
     top: 0;
     z-index: 10;
@@ -102,11 +102,13 @@
     text-align: center;
   }
   
-  .heading {
-    padding-top: 80px;
-    padding-bottom: 50px;
-    color: #5f5d60;
-  }
+  .content-wrapper .heading h2 {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+  font-weight: bold;
+  font-size: 24px;
+}
   
   .heading h2 {
     font-weight: normal;
