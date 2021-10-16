@@ -35,22 +35,27 @@
     text-align: center;
   }
   
-  .top-wrapper h1 {
-    font-size: 64px;
-    letter-spacing: 5px;
-    margin-bottom: 10px;
-  }
+ .top-wrapper h1 {
+  font-size: 64px;
+  letter-spacing: 5px;
+  margin-bottom: 5px;
+ }
 
-  .top-wrapper h2 {
-      margin-top: 10px;
-  }
+.top-wrapper h1 span {
+  color: #00ffdd;
+ }
 
-  .top-wrapper h3 {
-     
-  }
+.top-wrapper h2 {
+  font-size: 28px;
+  margin-top: 10px;
+ }
+
+.top-wrapper h3 {
+  font-weight: normal;
+  font-size: 24px;
+}
   
   .top-wrapper p {
-    
     margin-bottom: 3px;
   }
   
